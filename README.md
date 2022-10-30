@@ -17,6 +17,11 @@ Before you continue you should have a basic understanding of the following:
 
 #PHP is an amazing and popular language!
 
+What is a PHP File?
+PHP files can contain text, HTML, CSS, JavaScript, and PHP code
+PHP code is executed on the server, and the result is returned to the browser as plain HTML
+PHP files have extension ".php"
+
 It is powerful enough to be at the core of the biggest blogging system on the web (WordPress)!
 It is deep enough to run large social networks!
 It is also easy enough to be a beginner's first server side language!
