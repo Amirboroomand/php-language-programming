@@ -50,3 +50,9 @@ PHP 7 is much faster than the previous popular stable release (PHP 5.6)
 PHP 7 has improved Error Handling
 PHP 7 supports stricter Type Declarations for function arguments
 PHP 7 supports new operators (like the spaceship operator: <=>)
+
+#What Do I Need?
+To start using PHP, you can:
+
+Find a web host with PHP and MySQL support
+Install a web server on your own PC, and then install PHP and MySQL
