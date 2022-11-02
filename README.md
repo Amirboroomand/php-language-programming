@@ -74,3 +74,19 @@ However, if your server does not support PHP, you must:
 .install PHP
 .install a database, such as MySQL
 .The official PHP website (PHP.net) has installation instructions for PHP: http://php.net/manual/en/install.php
+
+
+
+
+#PHP Online Compiler / Editor
+With w3schools' online PHP compiler, you can edit PHP code, and view the result in your browser.
+
+
+Example:
+
+<?php
+$txt = "PHP";
+echo "I love $txt!";
+?>
+
+I love PHP!
