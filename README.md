@@ -66,3 +66,11 @@ Just create some .php files, place them in your web directory, and the server wi
 You do not need to compile anything or install any extra tools.
 
 Because PHP is free, most web hosts offer PHP support.
+
+#Set Up PHP on Your Own PC
+However, if your server does not support PHP, you must:
+
+.install a web server
+.install PHP
+.install a database, such as MySQL
+.The official PHP website (PHP.net) has installation instructions for PHP: http://php.net/manual/en/install.php
