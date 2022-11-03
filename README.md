@@ -90,3 +90,5 @@ echo "I love $txt!";
 ?>
 
 I love PHP!
+
+#PHP Syntax
