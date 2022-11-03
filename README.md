@@ -92,3 +92,8 @@ echo "I love $txt!";
 I love PHP!
 
 #PHP Syntax
+
+Basic PHP Syntax
+A PHP script can be placed anywhere in the document.
+
+A PHP script starts with <?php and ends with ?>:
