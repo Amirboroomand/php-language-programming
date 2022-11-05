@@ -121,3 +121,5 @@ echo "Hello World!";
 
 </body>
 </html>
+
+Note: PHP statements end with a semicolon (;).
