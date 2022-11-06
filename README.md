@@ -124,5 +124,23 @@ echo "Hello World!";
 
 Note: PHP statements end with a semicolon (;).
 
-PHP Case Sensitivity
+#PHP Case Sensitivity
+
 In PHP, keywords (e.g. if, else, while, echo, etc.), classes, functions, and user-defined functions are not case-sensitive.
+
+In the example below, all three echo statements below are equal and legal:
+
+Example
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+ECHO "Hello World!<br>";
+echo "Hello World!<br>";
+EcHo "Hello World!<br>";
+?>
+
+</body>
+</html>
