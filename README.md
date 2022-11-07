@@ -145,4 +145,4 @@ EcHo "Hello World!<br>";
 </body>
 </html>
 
-
+Note: However; all variable names are case-sensitive!
