@@ -17,6 +17,8 @@ Before you continue you should have a basic understanding of the following:
 
 #PHP is an amazing and popular language!
 
+
+
 #What is a PHP File?
 PHP files can contain text, HTML, CSS, JavaScript, and PHP code
 PHP code is executed on the server, and the result is returned to the browser as plain HTML
@@ -149,3 +151,20 @@ Note: However; all variable names are case-sensitive!
 
 
 Look at the example below; only the first statement will display the value of the $color variable! This is because $color, $COLOR, and $coLOR are treated as three different variables:
+
+
+Example
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$color = "red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
+?>
+
+</body>
+</html>
