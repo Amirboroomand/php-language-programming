@@ -173,3 +173,8 @@ echo "My boat is " . $coLOR . "<br>";
 #PHP Exercises
 
 Test Yourself With Exercises
+
+Exercise:
+Insert the missing part of the code below to output "Hello World".
+
+ "Hello World";
