@@ -168,3 +168,8 @@ echo "My boat is " . $coLOR . "<br>";
 
 </body>
 </html>
+
+
+#PHP Exercises
+
+Test Yourself With Exercises
