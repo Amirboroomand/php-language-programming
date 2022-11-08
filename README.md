@@ -178,3 +178,6 @@ Exercise:
 Insert the missing part of the code below to output "Hello World".
 
  "Hello World";
+ 
+ #Comments in PHP
+A comment in PHP code is a line that is not executed as a part of the program. Its only purpose is to be read by someone who is looking at the code.
