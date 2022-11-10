@@ -225,3 +225,7 @@ lines
 
 </body>
 </html>
+
+Example
+
+Using comments to leave out parts of the code:
