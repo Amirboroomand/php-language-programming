@@ -242,3 +242,9 @@ echo $x;
 
 </body>
 </html>
+
+
+#Creating (Declaring) PHP Variables
+
+
+
