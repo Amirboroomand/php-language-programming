@@ -254,3 +254,5 @@ $txt = "Hello world!";
 $x = 5;
 $y = 10.5;
 ?>
+
+After the execution of the statements above, the variable $txt will hold the value Hello world!, the variable $x will hold the value 5, and the variable $y will hold the value 10.5.
