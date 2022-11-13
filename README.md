@@ -266,4 +266,4 @@ Note: Unlike other programming languages, PHP has no command for declaring a var
 Think of variables as containers for storing data.
 
 
-
+#PHP Variables
