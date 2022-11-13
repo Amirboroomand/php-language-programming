@@ -279,4 +279,4 @@ Rules for PHP variables:
 .A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 .Variable names are case-sensitive ($age and $AGE are two different variables)
 
-
+Remember that PHP variable names are case-sensitive!
