@@ -270,3 +270,8 @@ Think of variables as containers for storing data.
 
 
 A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).
+
+Rules for PHP variables:
+
+.A variable starts with the $ sign, followed by the name of the variable
+
