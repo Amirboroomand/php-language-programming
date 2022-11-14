@@ -286,3 +286,9 @@ Remember that PHP variable names are case-sensitive!
 The PHP echo statement is often used to output data to the screen.
 
 The following example will show how to output text and a variable:
+
+Example
+<?php
+$txt = "W3Schools.com";
+echo "I love $txt!";
+?>
