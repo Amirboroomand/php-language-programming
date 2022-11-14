@@ -283,3 +283,6 @@ Remember that PHP variable names are case-sensitive!
 
 #Output Variables
 
+The PHP echo statement is often used to output data to the screen.
+
+The following example will show how to output text and a variable:
