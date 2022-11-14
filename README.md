@@ -280,3 +280,6 @@ Rules for PHP variables:
 .Variable names are case-sensitive ($age and $AGE are two different variables)
 
 Remember that PHP variable names are case-sensitive!
+
+#Output Variables
+
