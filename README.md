@@ -297,3 +297,9 @@ The following example will produce the same output as the example above:
 
 
 Example:
+
+<?php
+$txt = "W3Schools.com";
+echo "I love " . $txt . "!";
+?>
+
