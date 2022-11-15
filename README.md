@@ -292,3 +292,5 @@ Example
 $txt = "W3Schools.com";
 echo "I love $txt!";
 ?>
+
+The following example will produce the same output as the example above:
