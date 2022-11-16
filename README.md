@@ -303,3 +303,4 @@ $txt = "W3Schools.com";
 echo "I love " . $txt . "!";
 ?>
 
+The following example will output the sum of two variables:
