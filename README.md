@@ -312,3 +312,4 @@ $y = 4;
 echo $x + $y;
 ?>
 
+Note: You will learn more about the echo statement and how to output data to the screen in the next chapter.
