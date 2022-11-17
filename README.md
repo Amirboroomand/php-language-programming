@@ -318,3 +318,6 @@ Note: You will learn more about the echo statement and how to output data to the
 PHP is a Loosely Typed Language
 
 In the example above, notice that we did not have to tell PHP which data type the variable is.
+
+PHP automatically associates a data type to the variable, depending on its value. Since the data types are not set in a strict sense, you can do things like adding a string to an integer without causing an error.
+
