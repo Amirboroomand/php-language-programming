@@ -316,3 +316,5 @@ Note: You will learn more about the echo statement and how to output data to the
 
 
 PHP is a Loosely Typed Language
+
+In the example above, notice that we did not have to tell PHP which data type the variable is.
