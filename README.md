@@ -326,3 +326,5 @@ In PHP 7, type declarations were added. This gives an option to specify the data
 You will learn more about strict and non-strict requirements, and data type declarations in the PHP Functions chapter.
 
 #PHP Variables Scope
+
+In PHP, variables can be declared anywhere in the script.
