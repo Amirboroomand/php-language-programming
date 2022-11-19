@@ -341,3 +341,6 @@ PHP has three different variable scopes:
 Global and Local Scope
 
 A variable declared outside a function has a GLOBAL SCOPE and can only be accessed outside a function:
+
+Example
+Variable with global scope:
