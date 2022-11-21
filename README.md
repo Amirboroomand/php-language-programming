@@ -374,3 +374,5 @@ echo "<p>Variable x outside function is: $x</p>";
 ?>
 
 You can have local variables with the same name in different functions, because local variables are only recognized by the function in which they are declared.
+
+PHP The global Keyword
