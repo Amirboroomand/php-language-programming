@@ -411,3 +411,5 @@ function myTest() {
 myTest();
 echo $y; // outputs 15
 ?>
+
+PHP The static Keyword
