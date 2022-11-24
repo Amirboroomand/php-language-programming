@@ -432,3 +432,6 @@ myTest();
 myTest();
 myTest();
 ?>
+
+
+Then, each time the function is called, that variable will still have the information it contained from the last time the function was called.
