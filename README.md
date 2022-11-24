@@ -439,3 +439,10 @@ Then, each time the function is called, that variable will still have the inform
 Note: The variable is still local to the function.
 
 PHP Exercises
+
+Test Yourself With Exercises
+Exercise:
+Create a variable named txt and assign the value "Hello".
+
+ = "
+";
