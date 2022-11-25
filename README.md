@@ -448,3 +448,5 @@ Create a variable named txt and assign the value "Hello".
 ";
 
 #PHP echo and print Statements
+
+With PHP, there are two basic ways to get output: echo and print.
