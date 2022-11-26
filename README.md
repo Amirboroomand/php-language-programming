@@ -462,3 +462,7 @@ The differences are small: echo has no return value while print has a return val
 The PHP echo Statement
 
 The echo statement can be used with or without parentheses: echo or echo().
+
+Display Text
+
+The following example shows how to output text with the echo command (notice that the text can contain HTML markup):
