@@ -466,3 +466,11 @@ The echo statement can be used with or without parentheses: echo or echo().
 Display Text
 
 The following example shows how to output text with the echo command (notice that the text can contain HTML markup):
+
+Example
+<?php
+echo "<h2>PHP is Fun!</h2>";
+echo "Hello world!<br>";
+echo "I'm about to learn PHP!<br>";
+echo "This ", "string ", "was ", "made ", "with multiple parameters.";
+?>
