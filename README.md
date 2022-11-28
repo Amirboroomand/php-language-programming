@@ -495,3 +495,8 @@ echo $x + $y;
 The PHP print Statement
 
 The print statement can be used with or without parentheses: print or print().
+
+Display Text
+
+The following example shows how to output text with the print command (notice that the text can contain HTML markup):
+
