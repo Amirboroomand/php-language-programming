@@ -490,3 +490,6 @@ echo "<h2>" . $txt1 . "</h2>";
 echo "Study PHP at " . $txt2 . "<br>";
 echo $x + $y;
 ?>
+
+
+The PHP print Statement
