@@ -493,3 +493,5 @@ echo $x + $y;
 
 
 The PHP print Statement
+
+The print statement can be used with or without parentheses: print or print().
