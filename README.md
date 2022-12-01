@@ -525,3 +525,5 @@ print $x + $y;
 ?>
 
 .PHP Data Types
+
+Variables can store data of different types, and different data types can do different things.
