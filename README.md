@@ -538,3 +538,5 @@ Array
 Object
 NULL
 Resource
+
+.
