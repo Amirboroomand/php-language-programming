@@ -540,3 +540,6 @@ NULL
 Resource
 
 .
+
+
+PHP String
