@@ -557,3 +557,5 @@ echo $x;
 echo "<br>";
 echo $y;
 ?>
+
+PHP Integer
