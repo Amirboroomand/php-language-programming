@@ -577,3 +577,5 @@ Example
 $x = 5985;
 var_dump($x);
 ?>
+
+PHP Float
