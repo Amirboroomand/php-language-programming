@@ -592,3 +592,5 @@ var_dump($x);
 ?>
 
 PHP Boolean
+
+A Boolean represents two possible states: TRUE or FALSE.
