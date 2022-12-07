@@ -605,3 +605,9 @@ PHP Array
 An array stores multiple values in one single variable.
 
 In the following example $cars is an array. The PHP var_dump() function returns the data type and value:
+
+Example
+<?php
+$cars = array("Volvo","BMW","Toyota");
+var_dump($cars);
+?>
