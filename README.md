@@ -649,4 +649,9 @@ echo $myCar -> message();
 echo "<br>";
 $myCar = new Car("red", "Toyota");
 echo $myCar -> message();
+
+
 ?>
+
+
+PHP NULL Value
