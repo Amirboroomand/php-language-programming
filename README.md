@@ -680,4 +680,6 @@ A common example of using the resource data type is a database call.
 
 We will not talk about the resource type here, since it is an advanced topic.
 
+A string is a sequence of characters, like "Hello world!".
+
 PHP Strings
