@@ -689,3 +689,5 @@ PHP Strings
 PHP String Functions
 
 In this chapter we will look at some commonly used functions to manipulate strings.
+
+strlen() - Return the Length of a String
