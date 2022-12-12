@@ -687,3 +687,5 @@ A string is a sequence of characters, like "Hello world!".
 PHP Strings
 
 PHP String Functions
+
+In this chapter we will look at some commonly used functions to manipulate strings.
