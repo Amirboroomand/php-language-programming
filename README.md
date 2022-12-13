@@ -701,3 +701,5 @@ Return the length of the string "Hello world!":
 <?php
 echo strlen("Hello world!"); // outputs 12
 ?>
+
+str_word_count() - Count Words in a String
