@@ -695,3 +695,9 @@ strlen() - Return the Length of a String
 The PHP strlen() function returns the length of a string.
 
 Example
+
+Return the length of the string "Hello world!":
+
+<?php
+echo strlen("Hello world!"); // outputs 12
+?>
