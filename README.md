@@ -712,3 +712,5 @@ Count the number of word in the string "Hello world!":
 <?php
 echo str_word_count("Hello world!"); // outputs 2
 ?>
+
+strrev() - Reverse a String
