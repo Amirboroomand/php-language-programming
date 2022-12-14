@@ -714,3 +714,5 @@ echo str_word_count("Hello world!"); // outputs 2
 ?>
 
 strrev() - Reverse a String
+
+The PHP strrev() function reverses a string.
