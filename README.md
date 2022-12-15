@@ -723,3 +723,5 @@ Reverse the string "Hello world!":
 <?php
 echo strrev("Hello world!"); // outputs !dlrow olleH
 ?>
+
+.
