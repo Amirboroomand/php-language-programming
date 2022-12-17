@@ -726,3 +726,5 @@ echo strrev("Hello world!"); // outputs !dlrow olleH
 
 .
 .
+
+strpos() - Search For a Text Within a String
