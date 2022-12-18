@@ -743,3 +743,10 @@ Tip: The first character position in a string is 0 (not 1).
 str_replace() - Replace Text Within a String
 
 The PHP str_replace() function replaces some characters with some other characters in a string.
+
+Example
+Replace the text "world" with "Dolly":
+
+<?php
+echo str_replace("world", "Dolly", "Hello world!"); // outputs Hello Dolly!
+?>
