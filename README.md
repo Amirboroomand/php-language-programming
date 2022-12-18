@@ -739,3 +739,5 @@ echo strpos("Hello world!", "world"); // outputs 6
 ?>
 
 Tip: The first character position in a string is 0 (not 1).
+
+str_replace() - Replace Text Within a String
