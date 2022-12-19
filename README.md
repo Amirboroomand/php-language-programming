@@ -750,3 +750,5 @@ Replace the text "world" with "Dolly":
 <?php
 echo str_replace("world", "Dolly", "Hello world!"); // outputs Hello Dolly!
 ?>
+
+.
