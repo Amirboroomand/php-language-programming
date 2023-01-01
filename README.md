@@ -769,3 +769,11 @@ Complete PHP String Reference
 For a complete reference of all string functions, go to our complete PHP String Reference.
 
 The PHP string reference contains description and example of use, for each function!
+
+PHP Exercises
+Test Yourself With Exercises
+Exercise:
+Get the length of the string "Hello World!".
+
+echo 
+("Hello World!");
