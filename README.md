@@ -765,3 +765,7 @@ echo str_replace("world", "Dolly", "Hello world!"); // outputs Hello Dolly!
 ...........
 ............
 Complete PHP String Reference
+
+For a complete reference of all string functions, go to our complete PHP String Reference.
+
+The PHP string reference contains description and example of use, for each function!
