@@ -782,3 +782,4 @@ echo
 ..
 ...
 PHP Numbers
+In this chapter we will look in depth into Integers, Floats, and Number Strings.
