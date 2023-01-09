@@ -794,3 +794,7 @@ So, if you assign an integer value to a variable, the type of that variable will
 This automatic conversion can sometimes break your code.
 
 PHP Integers
+
+2, 256, -256, 10358, -179567 are all integers.
+
+An integer is a number without any decimal part.
