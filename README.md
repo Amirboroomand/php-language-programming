@@ -817,3 +817,4 @@ PHP has the following predefined constants for integers:
 .PHP_INT_SIZE -  The size of an integer in bytes
 .
 .
+.
