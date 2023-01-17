@@ -820,3 +820,4 @@ PHP has the following predefined constants for integers:
 .
 .
 .
+PHP has the following functions to check if the type of a variable is integer:
