@@ -826,3 +826,15 @@ PHP has the following functions to check if the type of a variable is integer:
 .is_int()
 .is_integer() - alias of is_int()
 .is_long() -
+
+Example
+
+Check if the type of a variable is integer:
+
+<?php
+$x = 5985;
+var_dump(is_int($x));
+
+$x = 59.85;
+var_dump(is_int($x));
+?>
