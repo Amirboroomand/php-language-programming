@@ -821,3 +821,8 @@ PHP has the following predefined constants for integers:
 .
 .
 PHP has the following functions to check if the type of a variable is integer:
+
+
+.is_int()
+.is_integer() - alias of is_int()
+.is_long() -
