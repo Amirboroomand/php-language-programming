@@ -863,3 +863,4 @@ PHP_FLOAT_DIG - The number of decimal digits that can be rounded into a float an
 PHP_FLOAT_EPSILON - The smallest representable positive number x, so that x + 1.0 != 1.0
 ......
 .
+.
