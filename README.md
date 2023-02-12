@@ -881,3 +881,10 @@ is_double() - alias of is_float()
 
 
 Example
+
+Check if the type of a variable is float:
+
+<?php
+$x = 10.365;
+var_dump(is_float($x));
+?>
