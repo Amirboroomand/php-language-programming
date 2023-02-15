@@ -16,7 +16,7 @@ Before you continue you should have a basic understanding of the following:
 .PHP is free to download and use
 
 #PHP is an amazing and popular language!
-
+.
 
 
 #What is a PHP File?
@@ -907,3 +907,4 @@ PHP_FLOAT_MIN - The smallest representable positive floating point number
  PHP_FLOAT_MAX - The smallest representable negative floating point number
 PHP_FLOAT_DIG - The number of decimal digits that can be rounded into a float and back without precision loss
 PHP_FLOAT_EPSILON - The smallest representable positive number x, so that x + 1.0 != 1.0
+.
