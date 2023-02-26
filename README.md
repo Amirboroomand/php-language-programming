@@ -923,3 +923,6 @@ PHP has the following functions to check if the type of a variable is float:
 
 is_float()
 is_double() - alias of is_float()
+
+
+Example
