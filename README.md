@@ -944,3 +944,6 @@ PHP has the following functions to check if a numeric value is finite or infinit
 is_finite()
 is_infinite()
 However, the PHP var_dump() function returns the data type and value:
+
+
+ExampleGet
