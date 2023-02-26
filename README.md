@@ -919,3 +919,7 @@ PHP_FLOAT_EPSILON - The smallest representable positive number x, so that x + 1.
 .
 .
 ..
+PHP has the following functions to check if the type of a variable is float:
+
+is_float()
+is_double() - alias of is_float()
