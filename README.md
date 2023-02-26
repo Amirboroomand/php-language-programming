@@ -946,4 +946,11 @@ is_infinite()
 However, the PHP var_dump() function returns the data type and value:
 
 
-ExampleGet
+Example
+
+Check if a numeric value is finite or infinite:
+
+<?php
+$x = 1.9e411;
+var_dump($x);
+?>
