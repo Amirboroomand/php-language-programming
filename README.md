@@ -971,3 +971,10 @@ is_nan()
 However, the PHP var_dump() function returns the data type and value:
 
 Example
+
+Invalid calculation will return a NaN value:
+
+<?php
+$x = acos(8);
+var_dump($x);
+?>
