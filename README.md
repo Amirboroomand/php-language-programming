@@ -969,3 +969,5 @@ is_nan()
 
 
 However, the PHP var_dump() function returns the data type and value:
+
+Example
