@@ -957,3 +957,4 @@ var_dump($x);
 .
 .
 .
+PHP NaN
