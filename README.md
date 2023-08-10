@@ -1051,3 +1051,9 @@ echo(pi()); // returns 3.1415926535898
 
 PHP min() and max() Functions
 The min() and max() functions can be used to find the lowest or highest value in a list of arguments
+
+Example
+<?php
+echo(min(0, 150, 30, 20, -8, -200));  // returns -200
+echo(max(0, 150, 30, 20, -8, -200));  // returns 150
+?>
