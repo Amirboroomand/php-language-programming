@@ -1070,3 +1070,9 @@ PHP sqrt() Function
 The sqrt() function returns the square root of a number:
 
 ...
+
+
+Example
+<?php
+echo(sqrt(64));  // returns 8
+?>
