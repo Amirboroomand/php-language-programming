@@ -1089,3 +1089,8 @@ echo(round(0.49));  // returns 0
 
 Random Numbers
 The rand() function generates a random number:
+
+Example
+<?php
+echo(rand());
+?>
