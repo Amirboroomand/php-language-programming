@@ -1086,3 +1086,6 @@ Example
 echo(round(0.60));  // returns 1
 echo(round(0.49));  // returns 0
 ?>
+
+Random Numbers
+The rand() function generates a random number:
