@@ -1104,3 +1104,6 @@ Example
 <?php
 echo(rand(10, 100));
 ?>
+
+
+PHP Constants
