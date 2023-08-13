@@ -1115,3 +1115,6 @@ PHP Constants
 
 Create a PHP Constant
 To create a constant, use the define() function.
+
+Syntax
+define(name, value, case-insensitive)
