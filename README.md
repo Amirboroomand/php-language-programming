@@ -1111,3 +1111,7 @@ A valid constant name starts with a letter or underscore (no $ sign before the c
 
 Note: Unlike variables, constants are automatically global across the entire script.
 PHP Constants
+
+
+Create a PHP Constant
+To create a constant, use the define() function.
