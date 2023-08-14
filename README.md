@@ -1132,3 +1132,6 @@ Create a constant with a case-sensitive name:
 define("GREETING", "Welcome to W3Schools.com!");
 echo GREETING;
 ?>
+
+Example
+Create a constant with a case-insensitive name:
