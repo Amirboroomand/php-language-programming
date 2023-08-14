@@ -1142,3 +1142,5 @@ echo greeting;
 ?>
 
 PHP Constant Arrays
+
+In PHP7, you can create an Array constant using the define() function.
