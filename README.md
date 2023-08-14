@@ -1140,3 +1140,5 @@ Create a constant with a case-insensitive name:
 define("GREETING", "Welcome to W3Schools.com!", true);
 echo greeting;
 ?>
+
+PHP Constant Arrays
