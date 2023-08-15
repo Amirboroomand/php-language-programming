@@ -1157,3 +1157,6 @@ echo cars[0];
 
 Constants are Global
 Constants are automatically global and can be used across the entire script.
+
+Example
+This example uses a constant inside a function, even if it is defined outside the function:
