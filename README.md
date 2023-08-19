@@ -1185,3 +1185,6 @@ Logical operators
 String operators
 Array operators
 Conditional assignment operators
+
+
+PHP Arithmetic Operators
