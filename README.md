@@ -1198,3 +1198,7 @@ Operator	  Name	     Example    	Result
 /	        Division	     $x / $y	 Quotient of $x and $y	
 %.       	Modulus	      $x % $y 	Remainder of $x divided by $y	
 **	   Exponentiation   	$x ** $y	Result of raising $x to the $y'th power
+
+
+
+...........
