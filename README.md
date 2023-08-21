@@ -1202,3 +1202,4 @@ Operator	  Name	     Example    	Result
 
 
 ...........
+PHP Assignment Operators
