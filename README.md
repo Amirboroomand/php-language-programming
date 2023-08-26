@@ -1220,3 +1220,5 @@ Operator	    Name       	Example	        Result
 PHP if...else...elseif Statements
 
 Conditional statements are used to perform different actions based on different conditions.
+
+PHP Conditional Statements
