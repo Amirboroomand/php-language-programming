@@ -1235,3 +1235,8 @@ switch statement - selects one of many blocks of code to be executed
 PHP - The if Statement
 
 The if statement executes some code if one condition is true.
+
+Syntax
+if (condition) {
+  code to be executed if condition is true;
+}
