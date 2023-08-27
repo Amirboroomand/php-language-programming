@@ -1233,3 +1233,5 @@ if...elseif...else statement - executes different codes for more than two condit
 switch statement - selects one of many blocks of code to be executed
 
 PHP - The if Statement
+
+The if statement executes some code if one condition is true.
