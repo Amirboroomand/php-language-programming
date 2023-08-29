@@ -1252,3 +1252,5 @@ if ($t < "20") {
   echo "Have a good day!";
 }
 ?>
+
+PHP - The if...else Statement
