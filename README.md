@@ -1263,3 +1263,6 @@ if (condition) {
 } else {
   code to be executed if condition is false;
 }
+
+Example
+Output "Have a good day!" if the current time is less than 20, and "Have a good night!" otherwise:
