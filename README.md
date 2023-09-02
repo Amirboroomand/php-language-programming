@@ -1299,3 +1299,6 @@ if ($t < "20") {
   echo "Have a good day!";
 }
 ?>
+
+PHP - The if...else Statement
+The if...else statement executes some code if a condition is true and another code if that condition is false.
