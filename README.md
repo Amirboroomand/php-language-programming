@@ -1352,3 +1352,5 @@ if ($t < "10") {
   echo "Have a good night!";
 }
 ?>
+
+PHP - The switch Statement
