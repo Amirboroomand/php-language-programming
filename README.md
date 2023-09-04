@@ -1354,3 +1354,5 @@ if ($t < "10") {
 ?>
 
 PHP - The switch Statement
+
+The switch statement will be explained in the next chapter.
