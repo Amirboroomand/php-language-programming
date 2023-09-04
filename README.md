@@ -1356,3 +1356,16 @@ if ($t < "10") {
 PHP - The switch Statement
 
 The switch statement will be explained in the next chapter.
+
+PHP Exercises
+Test Yourself With Exercises
+Exercise:
+Output "Hello World" if $a is greater than $b.
+
+$a = 50;
+$b = 10;
+ 
+ > 
+ {
+  echo "Hello World";
+}
