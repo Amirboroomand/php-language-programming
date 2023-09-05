@@ -1369,3 +1369,6 @@ $b = 10;
  {
   echo "Hello World";
 }
+
+
+PHP switch Statement
