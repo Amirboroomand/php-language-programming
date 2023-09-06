@@ -1418,3 +1418,17 @@ switch ($favcolor) {
 ?>
 
 PHP Exercises
+
+Exercise:
+Create a switch statement that will output "Hello" if $color is "red", and "welcome" if $color is "green".
+
+ ($color) {
+  
+ "red":
+    echo "Hello";
+    break;
+  
+ "green":
+    echo "Welcome";
+    break;
+}
