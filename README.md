@@ -1432,3 +1432,5 @@ Create a switch statement that will output "Hello" if $color is "red", and "welc
     echo "Welcome";
     break;
 }
+
+PHP Loops
