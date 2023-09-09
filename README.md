@@ -1446,3 +1446,5 @@ do...while - loops through a block of code once, and then repeats the loop as lo
 for - loops through a block of code a specified number of times
 foreach - loops through a block of code for each element in an array
 The following chapters will explain and give examples of each loop type.
+
+PHP while Loop
