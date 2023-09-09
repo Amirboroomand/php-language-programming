@@ -1448,3 +1448,4 @@ foreach - loops through a block of code for each element in an array
 The following chapters will explain and give examples of each loop type.
 
 PHP while Loop
+The while loop - Loops through a block of code as long as the specified condition is true.
