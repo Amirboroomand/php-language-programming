@@ -1451,3 +1451,11 @@ PHP while Loop
 The while loop - Loops through a block of code as long as the specified condition is true.
 
 The while loop - Loops through a block of code as long as the specified condition is true.
+
+The PHP while Loop
+The while loop executes a block of code as long as the specified condition is true.
+
+Syntax
+while (condition is true) {
+  code to be executed;
+}
