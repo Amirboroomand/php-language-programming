@@ -1462,3 +1462,13 @@ while (condition is true) {
 
 Examples
 The example below displays the numbers from 1 to 5:
+
+Example
+<?php
+$x = 1;
+
+while($x <= 5) {
+  echo "The number is: $x <br>";
+  $x++;
+}
+?>
