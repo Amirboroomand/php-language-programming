@@ -1494,3 +1494,14 @@ Example Explained
 $x = 0; - Initialize the loop counter ($x), and set the start value to 0
 $x <= 100 - Continue the loop as long as $x is less than or equal to 100
 $x+=10; - Increase the loop counter value by 10 for each iteration
+
+Test Yourself With Exercises
+Exercise:
+Output $i as long as $i is less than 6.
+
+$i = 1; 
+
+ ($i < 6) 
+
+  echo $i;
+  $i++;
