@@ -1459,3 +1459,6 @@ Syntax
 while (condition is true) {
   code to be executed;
 }
+
+Examples
+The example below displays the numbers from 1 to 5:
