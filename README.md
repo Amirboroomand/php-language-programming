@@ -1505,3 +1505,10 @@ $i = 1;
 
   echo $i;
   $i++;
+
+  
+Example Explained
+$x = 1; - Initialize the loop counter ($x), and set the start value to 1
+$x <= 5 - Continue the loop as long as $x is less than or equal to 5
+$x++; - Increase the loop counter value by 1 for each iteration
+This example counts to 100 by tens:
