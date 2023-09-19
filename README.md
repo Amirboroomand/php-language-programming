@@ -1536,3 +1536,6 @@ Syntax
 do {
   code to be executed;
 } while (condition is true);
+
+Examples
+The example below first sets a variable $x to 1 ($x = 1). Then, the do while loop will write some output, and then increment the variable $x with 1. Then the condition is checked (is $x less than, or equal to 5?), and the loop will continue to run as long as $x is less than, or equal to 5:
