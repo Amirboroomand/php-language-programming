@@ -1523,3 +1523,5 @@ while($x <= 100) {
   $x+=10;
 }
 ?>
+
+PHP do while Loop
