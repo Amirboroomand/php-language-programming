@@ -1566,3 +1566,5 @@ do {
 ?>
 
 PHP for Loop
+
+The for loop - Loops through a block of code a specified number of times.
