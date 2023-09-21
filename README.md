@@ -1564,3 +1564,5 @@ do {
   $x++;
 } while ($x <= 5);
 ?>
+
+PHP for Loop
