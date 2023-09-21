@@ -1568,3 +1568,6 @@ do {
 PHP for Loop
 
 The for loop - Loops through a block of code a specified number of times.
+
+The PHP for Loop
+The for loop is used when you know in advance how many times the script should run.
