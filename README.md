@@ -1584,3 +1584,7 @@ test counter: Evaluated for each loop iteration. If it evaluates to TRUE, the lo
 increment counter: Increases the loop counter value
 
 Examples
+
+The example below displays the numbers from 0 to 10:
+
+ExampleGe
