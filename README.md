@@ -1620,3 +1620,12 @@ $x+=10 - Increase the loop counter value by 10 for each iteration
 
 
 PHP Exercises
+
+Exercises
+Exercise:
+Create a loop that runs from 0 to 9.
+
+ ($i = 0; $i < 10; 
+) {
+  echo $i;
+}
