@@ -1629,3 +1629,5 @@ Create a loop that runs from 0 to 9.
 ) {
   echo $i;
 }
+
+PHP foreach Loop
