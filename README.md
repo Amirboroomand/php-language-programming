@@ -1635,3 +1635,5 @@ PHP foreach Loop
 The foreach loop - Loops through a block of code for each element in an array.
 
 PHP foreach Loop
+
+The foreach loop - Loops through a block of code for each element in an array.
