@@ -1646,3 +1646,5 @@ Syntax
 foreach ($array as $value) {
   code to be executed;
 }
+
+For every loop iteration, the value of the current array element is assigned to $value and the array pointer is moved by one, until it reaches the last array element.
