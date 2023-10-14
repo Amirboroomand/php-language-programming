@@ -1651,3 +1651,12 @@ For every loop iteration, the value of the current array element is assigned to 
 
 Examples
 The following example will output the values of the given array ($colors):
+
+Example
+<?php
+$colors = array("red", "green", "blue", "yellow");
+
+foreach ($colors as $value) {
+  echo "$value <br>";
+}
+?>
