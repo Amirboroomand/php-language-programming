@@ -1664,3 +1664,11 @@ foreach ($colors as $value) {
 The following example will output both the keys and the values of the given array ($age):
 
 Example
+
+<?php
+$age = array("Peter"=>"35", "Ben"=>"37", "Joe"=>"43");
+
+foreach($age as $x => $val) {
+  echo "$x = $val<br>";
+}
+?>
