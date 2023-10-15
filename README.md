@@ -1662,3 +1662,5 @@ foreach ($colors as $value) {
 ?>
 
 The following example will output both the keys and the values of the given array ($age):
+
+Example
