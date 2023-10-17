@@ -1676,3 +1676,5 @@ foreach($age as $x => $val) {
 For every loop iteration, the value of the current array element is assigned to $value and the array pointer is moved by one, until it reaches the last array element.
 
 Examples
+
+The following example will output the values of the given array ($colors):
