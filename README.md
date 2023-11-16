@@ -1697,3 +1697,4 @@ foreach($age as $x => $val) {
 }
 ?>
 The following example will output both the keys and the values of the given array ($age):
+.
